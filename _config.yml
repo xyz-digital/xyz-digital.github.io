@@ -1,4 +1,7 @@
 title: xyz digital
+author: Adam Berg
+email: adam@xyzdigital.com
+description: a blog by Adam Berg on how we interact with the digital world
 show_excerpts: true
 
 theme: minima
@@ -15,3 +18,6 @@ jekyll-archives:
     category: category-archive  
 
 google_analytics: UA-168026795-1
+
+webmaster_verifications:
+  bing: 7580656E05629A2FB74B9B67926A4F77
