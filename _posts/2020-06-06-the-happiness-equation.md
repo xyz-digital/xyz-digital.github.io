@@ -5,13 +5,13 @@ date:   2020-06-06 12:00:00 -0700
 categories: books
 ---
 
-<img alt="The Happiness Equation Book" src="/assets/images/the-happiness-equation.png" height="250">
-
 ## Preamble
 
 I have been on a real self-help reading tear lately.  I've been on a quest to learn more about what makes us happy and as a math nerd finding "The Happiness Equation" is ultimately the goal.
 
 According to his blog, [Neil Pasricha](https://www.neil.blog/about-neil) wrote the book as a love letter to his unborn son on how to live a happy life.  I remember taking a moment of reflection after finishing the book and wondering why "self-help" is not a genre of books we help kids find.  
+
+<!--more-->
 
 The first self help book I ended up reading was "How to Win Friends and Influence People" by Dale Carnegie, and that was at the end of 2018.  When I get around to it, I'll do a separate post on that topic (#futurepost).  My main point and surprise here is that despite being a fairly common occurence, mental health appears to have low priority in our society.
 

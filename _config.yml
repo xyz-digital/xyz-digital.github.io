@@ -3,6 +3,7 @@ author: Adam Berg
 email: adam@xyzdigital.com
 description: a blog by Adam Berg on how we interact with the digital world
 show_excerpts: true
+excerpt_separator: <!--more-->
 
 theme: minima
 plugins:

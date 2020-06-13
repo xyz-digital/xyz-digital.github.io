@@ -7,9 +7,10 @@ categories: meta
 
 ![XYZ Digital Homepage](/assets/images/xyzdigital-first-homepage.png)
 
-Above is a snapshot of the first recorded homepage from 2003 using the [Wayback Machine](https://web.archive.org/web/20030911171839/http://xyzdigital.com/):
+*First recorded homepage from 2003 using the [Wayback Machine](https://web.archive.org/web/20030911171839/http://xyzdigital.com/)*
 
-The domain xyzdigital.com was acquired on August 25, 1999.  I still don't know the full story behind it (though that may one day change), but I do know it was originally purchased and hosted by [Network Solutions](https://www.networksolutions.com/) "The World's First Domain Provider". 
+The domain xyzdigital.com was acquired on August 25, 1999.  I still don't know the full story behind it, here is what I do know.
+<!--more-->
 
 # What does XYZ Digital stand for?
 
