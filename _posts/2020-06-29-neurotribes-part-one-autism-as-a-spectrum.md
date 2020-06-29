@@ -5,13 +5,13 @@ date:   2020-06-28 12:00:00 -0700
 categories: books
 ---
 
-NeuroTribes, by Steve Silberman, takes the reader on a historical journey of autism since the 18th century. I stumbled on this book after watching both of Hannah Gadsby's Netflix Comedy specials (*Douglas* and *Nanette*).  In both of them, she discusses her Autism diagnosis and how it affects her life.  This wasn't the first thing I watched about autism that I related to.  The previous year I stumbled upon Temple Grandin and her [presentations on autism](https://www.youtube.com/results?search_query=temple+grandin+TED).  Autism is widely known to be prevelant in the software industry, so whether I have it or not I am likely to be exposed to it. I believe it is important to understand so that I can understand others and myself.  
+NeuroTribes, by Steve Silberman, takes the reader on a historical journey of autism since the 18th century. I stumbled on this book after watching both of Hannah Gadsby's Netflix Comedy specials (*Douglas* and *Nanette*).  In both of them, she discusses her Autism diagnosis and how it affects her life.  This wasn't the first thing I watched about autism that I related to.  Last year I stumbled upon Temple Grandin and her [presentations on autism](https://www.youtube.com/results?search_query=temple+grandin+TED).  Autism is widely known to be prevelant in the software industry, so whether I have it or not, I am likely to be exposed to it. I believe it is important to learn about so that I can better understand others and myself.  
 
 <!--more-->
 
 ## Autism as a Spectrum
 
-We didn't always consider autism a spectrum. You are likely familiar with the term "aspergers", which if you are the average person, you might define as "similar to autism but not as bad". I thought this was the extent of the confusion, but there was also  pervasive developmental disorder-not otherwise specified (PDD-NOS) and childhood disintegrative disorder (CDD).  
+We didn't always consider autism a spectrum. You are likely familiar with the term "aspergers", which if you are the average person, you might define as "similar to autism but not as bad". I thought this was the extent of the confusion, but there was also pervasive developmental disorder-not otherwise specified (PDD-NOS) and childhood disintegrative disorder (CDD).  
 
 ### Brief History of the DSM
 
@@ -27,7 +27,7 @@ The U.S. population at the time was around 17 million (2.5 million were slaves).
 | IV  | 1994 |
 | V   | 2013 |
 
-It wasn't until the most recent DSM V that the four categories of autism mentioned above were consildated into an umbrella diagnosis of autism spectrum disorder.  Despite covering the main names behind autism in great detail: [Leo Kanner](https://en.wikipedia.org/wiki/Leo_Kanner), [Hans Aspberger](https://en.wikipedia.org/wiki/Hans_Asperger), and [Lorna Wing](https://en.wikipedia.org/wiki/Lorna_Wing), I found the timeline difficult to follow.  Despite performing his research at the same time as Leo Kanner (1940s), Aspberger's Syndrome didn't find it's way in to the DSM until DSM-IV, thanks to Lorna Wing resurfacing Aspberger's work.
+Despite performing his research at the same time as Leo Kanner (1940s), Aspberger's Syndrome didn't find it's way in to the DSM until DSM-IV, thanks to Lorna Wing resurfacing Aspberger's work.  It wasn't until the most recent DSM V that the four categories of autism mentioned above were consolidated into an umbrella diagnosis of autism spectrum disorder.  Although Silberman covers the main names behind autism in great detail: [Leo Kanner](https://en.wikipedia.org/wiki/Leo_Kanner), [Hans Asperger](https://en.wikipedia.org/wiki/Hans_Asperger), and [Lorna Wing](https://en.wikipedia.org/wiki/Lorna_Wing), I found the timeline difficult to follow. I will attempt to condense a very long story below.
 
 ### Quantum Mechanics: An Idea in Two Places at the Same Time
 
@@ -54,4 +54,4 @@ One interesting part of this story, is that Kanner denies having any knowledge o
 
 Another important piece of the puzzle is framing the discovery of autism in the context of World War II.  Kanner and Asperger were just starting to get down to business when the world erupted in to war.  Asperger served as a medical officer in the Axis occupation of Yugoslavia.  Near the end of the war, a school Aspberger opened to help the children he was seeing was bombed, destroying it and much of Aspberger's early work. In Maryland, Kanner was busy rescuing hundreds of Jewish physicians by helping them relocate to the United States and housing them.
 
-This is the first part of three based on the book *NeuroTribes*. The next two parts will be added once they are ready.
+This is the first part of three based on the book *NeuroTribes*. The next part will focus more on the topic of eugenics and how it intertwines with the history of autism.
