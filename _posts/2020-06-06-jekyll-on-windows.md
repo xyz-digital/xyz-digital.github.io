@@ -8,6 +8,8 @@ categories: software
 ![Dr. Jekyll and Mr. Hyde](/assets/images/jekyll-hyde.jpg)
 
 Or should I say Jek "Hell" on Windows?
+
+<!--more-->
     
     gem install bundler jekyll
     jekyll new my-awesome-site
