@@ -11,7 +11,7 @@ NeuroTribes, by Steve Silberman, takes the reader on a historical journey of aut
 
 ## Autism as a Spectrum
 
-We didn't always consider autism a spectrum. You are likely familiar with the term "aspergers", which if you are the average person, you might define as "similar to autism but not as bad". I thought this was the extent of the confusion, but there was also pervasive developmental disorder-not otherwise specified (PDD-NOS) and childhood disintegrative disorder (CDD).  
+We didn't always consider autism as a spectrum. You are likely familiar with the term "aspergers", which if you are the average person, you might define as "similar to autism but not as bad". I thought this was the extent of the confusion, but there was also pervasive developmental disorder-not otherwise specified (PDD-NOS) and childhood disintegrative disorder (CDD). What started out as child schizophrenia eventually evolved in to what we now know as the autism spectrum disorder.
 
 ### Brief History of the DSM
 
