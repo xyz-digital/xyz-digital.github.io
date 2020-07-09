@@ -14,9 +14,9 @@ Comments on the site itself are currently disabled.  Any comments can be added a
 
 ## Contributing Posts
 
-While contributions are currently limited to a handful of people, this site welcomes contributions from all. The site is hosted as a [Github Page](https://pages.github.com/) public repository [here](https://github.com/adamjberg/adamjberg.github.io).
+While contributions are currently limited to a handful of people, this site welcomes contributions from all. The site is hosted as a [Github Page](https://pages.github.com/) public repository [here](https://github.com/adamjberg/adamjberg.github.io).  If you are interested please reach out to adam@xyzdigital.com.
 
-### Setup
+### Initial Setup
 
 The instructions below should be enough to get going, but this [page](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll) may cover some other things you need.
 
@@ -36,9 +36,11 @@ The instructions below should be enough to get going, but this [page](https://he
 
 8. Run `bundle install`
 
-9. Run `bundle exec jekyll serve`
+### Running the Site Locally
 
-10. You should now be able to open the site in your browser by accessing `http://127.0.0.1:4000/`.
+1. Run `bundle exec jekyll serve`
+
+2. You should now be able to open the site in your browser by accessing `http://127.0.0.1:4000/`.
 
 ### New Post
 
@@ -59,3 +61,11 @@ Submissions will be managed as Pull Requests on Github.  Below will be simple in
 5. Click "Create pull request"
 
 6. The pull request will be considered and any feedback will be provided there
+
+### Cleaning up for Next Time
+
+Now that the Pull Request is open, you'll want to get back to the master branch for the next time you would like to submit something.
+
+1. Return to the master branch if you are not already there: `git checkout master`
+
+2. Grab the latest changes: `git pull`
