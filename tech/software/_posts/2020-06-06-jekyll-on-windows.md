@@ -3,7 +3,6 @@ layout: post
 title:  "Jekyll on Windows"
 author: "Adam Berg"
 date:   2020-06-06 10:00:00 -0700
-categories: software
 ---
 
 ![Dr. Jekyll and Mr. Hyde]({{"/assets/images/jekyll-hyde.jpg" | relative_url}})

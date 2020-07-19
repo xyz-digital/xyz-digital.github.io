@@ -25,7 +25,7 @@ layout: default
             {% endfor %}
           {%- endif -%}
           {%- for category in post.categories -%}
-            &nbsp;• <a href="">{{ category | capitalize }}</a>
+            &nbsp;• <span>{{ category | capitalize }}</span>
           {%- endfor -%}
         </p>
         {%- if site.show_excerpts -%}
