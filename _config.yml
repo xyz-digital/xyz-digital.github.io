@@ -5,7 +5,6 @@ description: a space for people of all backgrounds to learn more about our digit
 show_excerpts: true
 excerpt_separator: <!--more-->
 
-baseurl: /blog
 permalink: /:categories/:title
 
 theme: minima
