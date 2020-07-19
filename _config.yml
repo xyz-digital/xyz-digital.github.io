@@ -6,7 +6,7 @@ show_excerpts: true
 excerpt_separator: <!--more-->
 
 baseurl: /blog
-permalink: /:title
+permalink: /:categories/:title
 
 theme: minima
 plugins:

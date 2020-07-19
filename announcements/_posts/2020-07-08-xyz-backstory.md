@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "xyzdigital - the Missing Backstory"
+author: "Randy Berg"
 date:   2020-06-28 12:00:00 -0700
-categories: history
 ---
 
 ## What is in a name? EVERYTHING

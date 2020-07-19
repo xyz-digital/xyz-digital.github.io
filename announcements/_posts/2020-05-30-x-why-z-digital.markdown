@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "X 'Why' Z Digital"
+author: "Adam Berg"
 date:   2020-05-30 17:53:47 -0700
-categories: meta
 ---
 
-![XYZ Digital Homepage](/assets/images/xyzdigital-first-homepage.png)
+![XYZ Digital Homepage]({{"/assets/images/xyzdigital-first-homepage.png" | relative_url}})
 
 *First recorded homepage from 2003 using the [Wayback Machine](https://web.archive.org/web/20030911171839/http://xyzdigital.com/)*
 
@@ -20,7 +20,7 @@ You may have noticed the "xyz" in the first title in iconic RGB.  Just like a li
 
 If you've done any physics or 3D modeling you are probably familiar with this helpful little guy below.
 
-![XYZ Axes](/assets/images/xyz-axes.png)
+![XYZ Axes]({{"/assets/images/xyz-axes.png" | relative_url}})
 
 If you are reading this, odds are you are of Generation X, Y, or Z.
 
@@ -41,7 +41,7 @@ In the days before gmail (and after), whenever I was asked for an email address 
 
 With a world (or maybe just a thumb) that is constantly shoving content down our eyes, it is difficult to find a space to create.  Even when you do, who knows how long that space will last.  I lost everything on my myspace page, I abandoned Facebook for Instagram, but ultimately found that I hated all of it.  In those realms I am bound by their rules.  My post competes with everyone else's, and I become just another number in Instagram's DAU (Daily Active User) count.  Instagram stories were invented to keep you coming back every single day.  I find myself worrying that I'm not keeping up with what my friends are doing because they post a picture that self-destructs in 24 hours.  Whenever I do make a post, I'm shocked when people respond.  They made it through all of the noise of sponsored posts, 50 stories, and still had the energy to send me a note.
 
-![Social Media History](/assets/images/social-media-history.jpg)
+![Social Media History]({{"/assets/images/social-media-history.jpg" | relative_url}})
 
 This will be a space for me to share thoughts.  Society taught us to fear sharing your thoughts because it "may hurt your chances for employment in the future".  If anything I write here does that, I probably don't want to be working for you anyway. If you don't find them interesting, that is perfectly fine.  I won't be shoving it down your throat and I won't be adding obnoxious ads to the page.  I have thoughts and ideas that I don't often see represented in the cyber space.  Even if just one post I have impacts just one person in some way, then this will have been a success.
 

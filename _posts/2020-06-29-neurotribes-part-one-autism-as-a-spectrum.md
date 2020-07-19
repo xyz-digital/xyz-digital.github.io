@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "NeuroTribes Part One: Autism as a Spectrum"
+author: "Adam Berg"
 date:   2020-06-28 12:00:00 -0700
 categories: books
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Happiness Equation"
+author: "Adam Berg"
 date:   2020-06-06 12:00:00 -0700
 categories: books
 ---

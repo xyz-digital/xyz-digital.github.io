@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Jekyll on Windows"
+author: "Adam Berg"
 date:   2020-06-06 10:00:00 -0700
 categories: software
 ---
 
-![Dr. Jekyll and Mr. Hyde](/assets/images/jekyll-hyde.jpg)
+![Dr. Jekyll and Mr. Hyde]({{"/assets/images/jekyll-hyde.jpg" | relative_url}})
 
 Or should I say Jek "Hell" on Windows?
 
@@ -51,7 +52,7 @@ The problem is that I think developers make this harder than it needs to be.  Wh
 
 I ended up just installing via [Chocolatey](https://chocolatey.org/).  I'm hardly a Windows person, but Package Management is great and this seems to be _the_ option on Windows.  I thought this was going to be easy and then I saw their installation page:
 
-![Choco Installation](/assets/images/choco-installation.png)
+![Choco Installation]({{"/assets/images/choco-installation.png" | relative_url}})
 
 I almost rebooted right there to switch over to Ubuntu, but instead decided this would be a decent ~~rant~~ post.
 
@@ -95,7 +96,7 @@ Turns out the choco installation doesn't include the dev kit, and the [ruby2.dev
 
 As I go through the installer I note some important default options checked.  "Adding to system PATH" and "Run 'ridk install' to setup MSYS2 and development toolchain. MSYS2 is required to install gems with C extensions."  
 
-![Ruby Installer](/assets/images/ruby-installer.png)
+![Ruby Installer]({{"/assets/images/ruby-installer.png" | relative_url}})
 
 Cool installer, bro. I guess option 1 sounds good?
 
@@ -103,7 +104,7 @@ Cool installer, bro. I guess option 1 sounds good?
 
 Takes a minute or two before this successfully completes.  I look over at my other monitor to see this:
 
-![Jekyll Homepage](/assets/images/jekyll-home.png)
+![Jekyll Homepage]({{"/assets/images/jekyll-home.png" | relative_url}})
 
 "Simple", "Get up and running in _seconds_", that cute little octopus mocking me as I am rounding the corner on **45 minutes**!
 
