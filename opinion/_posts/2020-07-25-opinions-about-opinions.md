@@ -34,8 +34,6 @@ Philosophy and diploma in counselling and every day life
 
 PhD In Mentation, University of Life
 
-Worth mentioning the below is embedded in a picture a la those inspirational quotes.
-
 > Everyone has opinions, even people who shouldn't.
 
 ### [Opinion 5: I Have Them, But They Might be Wrong](https://www.quora.com/What-is-your-opinion-on-opinions/answer/Tommy-C-Lim-Jr)
