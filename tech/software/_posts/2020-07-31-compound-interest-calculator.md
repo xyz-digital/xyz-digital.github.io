@@ -5,6 +5,7 @@ author: Adam Berg
 ---
 
 > Compound interest is the 8th wonder of the world.  He who understands it, earns it; he who doesn’t, pays it.
+> -- Albert Einstein
 
 A simple tool to help visualize compound interest, followed by some general personal finance thoughts.
 
