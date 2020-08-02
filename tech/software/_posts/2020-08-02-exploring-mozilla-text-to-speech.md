@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mozilla Text To Speech
+title:  Exploring Mozilla Text To Speech
 author: Adam Berg
 ---
 
