@@ -1,9 +1,3 @@
----
-permalink: /about/
-title:  "About"
-author: "Adam Berg"
----
-
 ## Misson Statement
 
 This site aims to create a space for **people of all backgrounds** to **learn more about our digital world**.
