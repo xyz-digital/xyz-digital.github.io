@@ -8,6 +8,8 @@ We are currently hiring for the following position(s):
 
 ### Software Engineer - Intern
 
+#### Location: Vancouver, BC, Canada - Remote
+
 **Minimum qualifications**
 
 - Currently enrolled in an Associate, Bachelor, or Master degree program and or post secondary or training experience with a focus on subjects in software development or other technical related field
@@ -21,7 +23,7 @@ We are currently hiring for the following position(s):
 
 **About the Job**
 
-As an intern at XYZ Digital, you will work on customer projects such as Dubsado, a business management software for creative entrepreneurs. You will be immersed in the world of web application development, gaining experience with modern technologies such as: TypeScript, React, Webpack, Docker, Node.js, GraphQL, MongoDB, and Redis. As a key member of a cross-disciplinary team, we will identify projects that match your interests and align with our business objectives. These projects will have a substantial impact on the product and provide value directly to our customers. Along the way you can expect to have consistent mentor-ship, professional development, and weekly Happy Hours Friday at 4PM.
+As an intern at [xyzdigital](/), you will work on customer projects such as [Dubsado](/services/#dubsado), a business management software for creative entrepreneurs. You will be immersed in the world of web application development, gaining experience with modern technologies such as: TypeScript, React, Webpack, Docker, Node.js, GraphQL, MongoDB, and Redis. As a key member of a cross-disciplinary team, we will identify projects that match your interests and align with our business objectives. These projects will have a substantial impact on the product and provide value directly to our customers. Along the way you can expect to have consistent mentor-ship, professional development, and weekly Happy Hours Friday at 4PM.
 
 **Who You Are**
 
