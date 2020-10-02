@@ -1,0 +1,5 @@
+- menu_name: "Services"
+
+- name: "RSS"
+  url: "/feed.xml"
+  title: "Subscribe to RSS Feed"

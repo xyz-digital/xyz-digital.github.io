@@ -1,0 +1,27 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Services
+  url: "/services/"
+  side: left
+
+- title: Careers
+  url: "/careers/"
+  side: left
+
+# - title: Team
+#   url: "/team"
+#   side: left
+#   dropdown:
+#   - title: "Careers"
+#     url: "/careers"
+
+- title: Stories
+  url: "/stories/"
+  side: left
+  # dropdown:
+  # - title: "Announcements"
+  #   url: "/stories/announcements"
+  # - title: "Technology"
+  #   url: "/stories/tech"
