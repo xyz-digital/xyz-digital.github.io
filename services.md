@@ -15,9 +15,3 @@ permalink: /services/
 ### [Special Car Store](http://www.specialcarstore.com)
 
 ![Special Car Store Homepage]({{"/assets/images/special-car-store.png" | relative_url}})
-
----
-
-### Invisible Conditions Conference
-
-![Invisible Conditions Conference]({{"/assets/images/invisible-conditions-conference.png" | relative_url}})

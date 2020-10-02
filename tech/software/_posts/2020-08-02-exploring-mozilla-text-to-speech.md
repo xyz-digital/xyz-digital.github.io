@@ -1,8 +1,12 @@
 ---
-layout: post
+layout: page
 title:  Exploring Mozilla Text To Speech
 author: Adam Berg
 ---
+
+This post explores some of the options for converting text to speech. It focuses primarily on Mozilla's TTS library and how to get it up and running on your computer.
+
+<!--more-->
 
 > Nothing is impossible, the word itself says, ‘I'm possible!' -- Audrey Hepburn
 
@@ -10,12 +14,6 @@ author: Adam Berg
   <source type="audio/mp3" src="{{"/assets/audio/impossible-quote.mp3" | relative_url}}"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
-
-<!--more-->
-
-## The Hunt for Text To Speech
-
-I have been searching for an offline text to speech library for a while now.  A couple of future side projects I'm considering are a voice assistant and converting ebooks or blog posts into audio so I can listen to them rather than read.  
 
 ### Google Cloud Text-to-Speech API
 

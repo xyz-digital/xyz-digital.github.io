@@ -7,7 +7,6 @@ excerpt_separator: <!--more-->
 
 permalink: /stories/:categories/:title
 
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -20,3 +19,14 @@ rss: Subscribe
 webmaster_verifications:
   bing: 7580656E05629A2FB74B9B67926A4F77
   yandex: 150f73e498f7f9f3
+
+
+#       ____              _             __  _
+#      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
+#     / /_/ / __ `/ __ `/ / __ \/ __ `/ __/ / __ \/ __ \
+#    / ____/ /_/ / /_/ / / / / / /_/ / /_/ / /_/ / / / /
+#   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
+#               /____/
+#
+paginate: 5                      # Paginates all X entries
+paginate_path: "stories/page:num"   # Pagination path › Important for blog page in /blog/ to work
