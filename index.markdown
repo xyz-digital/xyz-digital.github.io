@@ -5,10 +5,10 @@ header:
     image_fullwidth: "assets/images/home-hero.jpg"
 
 widget1:
-  title: "We're Hiring"
-  url: '/careers'
-  image: '/assets/images/hiring.jpg'
-  text: 'We are starting a brand new team in Vancouver, BC. Currently seeking full-stack developers to help scale <a href="https://www.dubsado.com/">Dubsado</a>'
+  title: "engram"
+  url: 'https://engramhq.xyz'
+  image: '/assets/images/engram.logo512.png'
+  text: 'engram is an open source knowledge management tool to turn thoughts into actions.'
 widget2:
   title: "What we do"
   url: '/services'
@@ -20,7 +20,7 @@ widget3:
   image: '/assets/images/why-choose-us.jpg'
 
 callforaction:
-  text: Let us know how we can help
+  text: Contact
   url: mailto:adam@xyzdigital.com
   style: alert
 
