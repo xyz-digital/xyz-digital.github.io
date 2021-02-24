@@ -1,6 +1,6 @@
 ## Misson Statement
 
-This site aims to create a space for **people of all backgrounds** to **learn more about our digital world**.
+xyz digital is a family owned creative engineering company dedicated to changing the world bits at a time.
 
 ## Comments, Feedback, or Corrections
 
