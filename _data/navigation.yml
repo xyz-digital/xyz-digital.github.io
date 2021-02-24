@@ -2,26 +2,22 @@
   url: "/"
   side: left
 
-- title: Services
-  url: "/services/"
+- title: products
+  url: "/products"
   side: left
 
-- title: Careers
-  url: "/careers/"
+- title: team
+  url: "/team"
   side: left
+  dropdown:
+  - title: "careers"
+    url: "/careers"
 
-# - title: Team
-#   url: "/team"
-#   side: left
-#   dropdown:
-#   - title: "Careers"
-#     url: "/careers"
-
-- title: Stories
-  url: "/stories/"
+- title: stories
+  url: "/stories"
   side: left
   # dropdown:
-  # - title: "Announcements"
+  # - title: "announcements"
   #   url: "/stories/announcements"
-  # - title: "Technology"
+  # - title: "technology"
   #   url: "/stories/tech"

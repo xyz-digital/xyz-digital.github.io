@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Services
-permalink: /services/
+title: team
+permalink: /team/
 ---
 
 ## Technology Consulting and Development
