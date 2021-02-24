@@ -1,6 +1,6 @@
 ## Misson Statement
 
-xyz digital is a family owned creative engineering company dedicated to changing the world bits at a time.
+xyz digital is a family owned creative engineering company dedicated to changing the world a few bits at a time.
 
 ## Comments, Feedback, or Corrections
 
