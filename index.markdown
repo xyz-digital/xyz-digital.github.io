@@ -7,13 +7,8 @@ header:
 widget1:
   title: "engram"
   url: 'https://engramhq.xyz'
-<<<<<<< Updated upstream
   image: '/assets/images/engram-phone.button.200x300.png'
   text: 'open source knowledge management tool for turning thoughts into enterprise'
-=======
-  image: '/assets/images/engram.logo512.png'
-  text: 'engram is an open source knowledge management tool used to turn thoughts into actions'
->>>>>>> Stashed changes
 widget2:
   title: "making things happen"
   url: '/products'
