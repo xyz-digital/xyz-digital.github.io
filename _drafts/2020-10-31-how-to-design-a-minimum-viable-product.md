@@ -2,6 +2,10 @@
 layout: page
 title: How to Design a Minimum Viable Product 
 author: Adam Berg
+image:
+  title: act-now.jpeg
+  thumb: act-now-thumb.jpeg
+  homepage: act-now-home.jpeg
 ---
 
 Coming up with app ideas is one of my favorite things to do. I have countless drawings and doodles of apps that do all kinds of things. Almost none of them have seen the light of day. In this article, I present how you can overcome this by designing a minimum viable product (MVP) note taking web application.

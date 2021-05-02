@@ -5,6 +5,7 @@ email: adam@xyzdigital.com
 description: a space for people of all backgrounds to learn more about our digital world
 show_excerpts: true
 excerpt_separator: <!--more-->
+urlimg: /assets/images/
 
 permalink: /stories/:categories/:title
 
