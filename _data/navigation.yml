@@ -7,7 +7,6 @@
   side: left
 
 - title: team
-  url: "/team"
   side: left
   dropdown:
   - title: "careers"
@@ -15,9 +14,11 @@
 
 - title: stories
   url: "/stories"
+
+- title: Stories
+  url: "/stories/"
   side: left
-  # dropdown:
-  # - title: "announcements"
-  #   url: "/stories/announcements"
-  # - title: "technology"
-  #   url: "/stories/tech"
+
+- title: Try engram
+  url: "https://engramhq.xyz?utm_source=xyz"
+  side: right
